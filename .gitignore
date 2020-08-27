@@ -1,3 +1,10 @@
+# Not to be tracked
+config.py
+API Test.ipynb
+Random.ipynb
+.ipynb_checkpoints
+Jupyter Notebook.bat
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
